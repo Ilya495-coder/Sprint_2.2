@@ -8,7 +8,7 @@ public class Meat extends Food implements Discountable {
     }
 
     @Override
-    public double getDiscount() {
+    public double getDiscount() {//вызываем дисконт
         return 0;
     }
 }
