@@ -33,4 +33,4 @@ public abstract class Food {
     public double getDiscount() {
         return 0;
     }
-}
+}//тест
