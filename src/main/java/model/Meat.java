@@ -1,6 +1,6 @@
 package model;
 
-public class Meat extends Food implements Discountable {
+public class Meat extends Food  {
 
     public Meat(int amount, double price) {
         super(amount, price);
@@ -8,7 +8,7 @@ public class Meat extends Food implements Discountable {
     }
 
     @Override
-    public double getDiscount() {
+    public double getDiscount() {//вызываем дисконт
         return 0;
     }
-}
+}//тест
