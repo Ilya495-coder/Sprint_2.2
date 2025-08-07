@@ -34,4 +34,4 @@ public class ShoppingCart {
         }
         return total;
     }
-}//тест
+}//тест4

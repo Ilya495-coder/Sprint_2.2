@@ -33,4 +33,4 @@ public abstract class Food implements Discountable {
     public double getDiscount() {
         return 0;
     }
-}//тест
+}//тест4

@@ -21,4 +21,4 @@ public class Main {
         System.out.println("Сумма вегетарианских продуктов без скидки: " + cart.getVegetarianPriceWithoutDiscount());
     }
 }
-//тест
+//тест4

@@ -11,4 +11,4 @@ public class Meat extends Food  {
     public double getDiscount() {//вызываем дисконт
         return 0;
     }
-}//тест
+}//тест4
